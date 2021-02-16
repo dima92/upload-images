@@ -10,7 +10,7 @@ const firebaseConfig = {
     storageBucket: "upload-d2389.appspot.com",
     messagingSenderId: "361170868493",
     appId: "1:361170868493:web:8db0364d63bad24a1b7844"
-}
+};
 
 firebase.initializeApp(firebaseConfig)
 
